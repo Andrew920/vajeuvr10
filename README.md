@@ -4,3 +4,5 @@
 
  # To je sprememba od Andraz Marinsek
  Ta aplikacija te pozdravi
+
+#spreminam file lol
